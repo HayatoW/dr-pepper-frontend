@@ -7,6 +7,7 @@
 - Vite+
 - TanStack Start (SPA Mode)
 - Chakra UI
+- Feature flag
 
 ## UI デザイン
 
