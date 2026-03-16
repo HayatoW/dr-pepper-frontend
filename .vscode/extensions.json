@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "eamodio.gitlens",
+    "gruntfuggly.todo-tree",
+    "oxc.oxc-vscode",
+    "streetsidesoftware.code-spell-checker",
+    "VoidZero.vite-plus-extension-pack"
+  ]
+}
